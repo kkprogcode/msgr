@@ -16,13 +16,15 @@ const Auth = () => {
       "
     >
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
-        <Image
-          height="48"
-          width="48"
-          className="mx-auto w-auto"
-          src="/images/logo.png"
-          alt="Logo"
-        />
+        
+        <h1 className="
+            mt-6 
+            text-center 
+            text-5xl
+            font-bold 
+            tracking-tight 
+            text-gray-900
+          ">BladeTEXT</h1>
         <h2 
           className="
             mt-6 
