@@ -184,7 +184,7 @@ const AuthForm = () => {
           "
         >
           <div>
-            {variant === 'LOGIN' ? 'New to BladeTEXT?' : 'Already have an account?'} 
+            {variant === 'LOGIN' ? 'New to Messages?' : 'Already have an account?'} 
           </div>
           <div 
             onClick={toggleVariant} 

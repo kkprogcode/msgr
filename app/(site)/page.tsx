@@ -24,7 +24,7 @@ const Auth = () => {
             font-bold 
             tracking-tight 
             text-gray-900
-          ">BladeTEXT</h1>
+          ">Messages</h1>
         <h2 
           className="
             mt-6 
